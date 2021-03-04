@@ -1,3 +1,2 @@
 Live Heroku Development   {https://manthan-kolhe.herokuapp.com/}
-<img src="https://github.com/manthan369/manthan-kolhe/blob/main/Screenshot%202021-03-05%20at%202.38.11%20AM.png" width="800px" height="auto">
-
+![Portfolio](https://user-images.githubusercontent.com/46276312/110036421-fb38c200-7d62-11eb-8d57-5757598527df.png)
